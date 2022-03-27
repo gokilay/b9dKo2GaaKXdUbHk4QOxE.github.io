@@ -116,14 +116,7 @@
                 "options": [
                     {
                     "format": "m3u8",
-                    "url": "http://31.24.159.221:8080/hls/t5.m3u8",
-                    "geo2": null,
-                    "res": null,
-                    "lang": null
-                  },
-                  {
-                    "format": "stream",
-                    "url": "https://ok.ru/videoembed/3678942797427",
+                    "url": "http://70.34.201.1:8080/hls/t5.mu8",
                     "geo2": null,
                     "res": null,
                     "lang": null
